@@ -9,6 +9,7 @@
             //myCar.PrintInfo();
             //Car myCar2 = new("Лада", "vesta", 2024, 40000);
             //myCar2.PrintInfo();
+            //}
         //}
     }
 }
